@@ -1,0 +1,9 @@
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\MenuWcfRestService\bin\MenuWcfRestService.dll.config
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\MenuWcfRestService\bin\MenuWcfRestService.dll
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\MenuWcfRestService\bin\MenuWcfRestService.pdb
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\MenuWcfRestService\bin\Restaurant.dll
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\MenuWcfRestService\bin\Newtonsoft.Json.dll
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\MenuWcfRestService\bin\Restaurant.pdb
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\MenuWcfRestService\obj\Debug\MenuWcfRestService.dll
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\MenuWcfRestService\obj\Debug\MenuWcfRestService.pdb
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\MenuWcfRestService\obj\Debug\MenuWcfRestService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\RestaurantSite\bin\RestaurantSite.dll.config
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\RestaurantSite\bin\RestaurantSite.dll
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\RestaurantSite\bin\RestaurantSite.pdb
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\RestaurantSite\obj\Debug\RestaurantSite.dll
+c:\users\david.holland\documents\visual studio 2013\Projects\MenuWcfRestService\RestaurantSite\obj\Debug\RestaurantSite.pdb

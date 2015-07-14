@@ -1,0 +1,5 @@
+C:\Users\david.holland\Documents\Visual Studio 2013\Projects\MenuWcfRestService\Restaurant\bin\Debug\Restaurant.dll
+C:\Users\david.holland\Documents\Visual Studio 2013\Projects\MenuWcfRestService\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\david.holland\Documents\Visual Studio 2013\Projects\MenuWcfRestService\Restaurant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david.holland\Documents\Visual Studio 2013\Projects\MenuWcfRestService\Restaurant\obj\Debug\Restaurant.dll
+C:\Users\david.holland\Documents\Visual Studio 2013\Projects\MenuWcfRestService\Restaurant\obj\Debug\Restaurant.pdb
